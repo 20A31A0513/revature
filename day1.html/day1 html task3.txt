@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anime Information</title>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+
+<h2>Anime: Attack on Titan</h2>
+
+<h3>About</h3>
+<p>Attack on Titan is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures. The story follows Eren Yeager, who vows to exterminate the Titans after they destroy his hometown and kill his mother.</p>
+
+<h3>Characters</h3>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td><a href="https://attackontitan.fandom.com/wiki/Eren_Yeager">Eren Yeager</a></td>
+    <td>Protagonist</td>
+  </tr>
+  <tr>
+    <td><a href="https://attackontitan.fandom.com/wiki/Mikasa_Ackerman">Mikasa Ackerman</a></td>
+    <td>Main Character</td>
+  </tr>
+  <tr>
+    <td><a href="https://attackontitan.fandom.com/wiki/Levi_Ackerman">Levi Ackerman</a></td>
+    <td>Corporal</td>
+  </tr>
+</table>
+
+<h3>Related Links</h3>
+<table>
+  <tr>
+    <td><a href="https://www.crunchyroll.com/attack-on-titan">Watch on Crunchyroll</a></td>
+    <td>Watch episodes of Attack on Titan</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.netflix.com/title/70299043">Watch on Netflix</a></td>
+    <td>Stream Attack on Titan on Netflix</td>
+  </tr>
+  <tr>
+    <td><a href="https://attackontitan.fandom.com/">Official Wiki</a></td>
+    <td>Explore more about Attack on Titan</td>
+  </tr>
+</table>
+
+</body>
+</html>

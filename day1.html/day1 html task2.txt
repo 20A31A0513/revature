@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Table with Links</title>
+</head>
+<body>
+
+<table border="1">
+  <tr>
+    <th>Website</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.example.com">Example</a></td>
+    <td>A website showcasing examples</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.google.com">Google</a></td>
+    <td>A popular search engine</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.github.com">GitHub</a></td>
+    <td>A platform for hosting and collaborating on code</td>
+  </tr>
+</table>
+
+</body>
+</html>
