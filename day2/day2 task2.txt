@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anime Information</title>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Anime: Attack on Titan</h1>
+  <img src="https://images.app.goo.gl/kLSY1oD2D3q46PEs8">
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#characters">Characters</a></li>
+    <li><a href="#related-links">Related Links</a></li>
+  </ul>
+</nav>
+
+<main>
+  <section id="about">
+    <h2>About</h2>
+    <p>Attack on Titan is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures. The story follows Eren Yeager, who vows to exterminate the Titans after they destroy his hometown and kill his mother.</p>
+  </section>
+
+  <section id="characters">
+    <h2>Characters</h2>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Role</th>
+      </tr>
+      <tr>
+        <td><a href="https://attackontitan.fandom.com/wiki/Eren_Yeager">Eren Yeager</a></td>
+        <td>Protagonist</td>
+      </tr>
+      <tr>
+        <td><a href="https://attackontitan.fandom.com/wiki/Mikasa_Ackerman">Mikasa Ackerman</a></td>
+        <td>Main Character</td>
+      </tr>
+      <tr>
+        <td><a href="https://attackontitan.fandom.com/wiki/Levi_Ackerman">Levi Ackerman</a></td>
+        <td>Corporal</td>
+      </tr>
+    </table>
+  </section>
+
+  <section id="related-links">
+    <h2>Related Links</h2>
+    <table>
+      <tr>
+        <td><a href="https://www.crunchyroll.com/attack-on-titan">Watch on Crunchyroll</a></td>
+        <td>Watch episodes of Attack on Titan</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.netflix.com/title/70299043">Watch on Netflix</a></td>
+        <td>Stream Attack on Titan on Netflix</td>
+      </tr>
+      <tr>
+        <td><a href="https://attackontitan.fandom.com/">Official Wiki</a></td>
+        <td>Explore more about Attack on Titan</td>
+      </tr>
+    </table>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2024 Anime Info. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
