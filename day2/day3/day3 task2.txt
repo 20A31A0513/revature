@@ -1,0 +1,8 @@
+function printEven(limit) {
+  let num = 2;
+  do {
+    console.log(num);
+    num += 2;
+  } while (num <= limit);
+}
+printEven(20);
